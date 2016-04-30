@@ -21,7 +21,7 @@ My Blog - a minimal, responsive theme for Jekyll based on the [Uno](https://gith
 
 ### Install and Test
 
-1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
+1. Download or clone repo `git clone git@github.com:rakeshtsasi/jekyll-uno.git`
 2. Enter the folder: `cd jekyll-uno/`
 3. If you don't have bundler installed: `gem install bundler`
 3. Install Ruby gems: `bundle install`
