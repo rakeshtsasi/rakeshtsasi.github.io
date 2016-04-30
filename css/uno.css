@@ -1448,7 +1448,7 @@ i {
 	line-height: 1.3em; }
 	.post-list__post-title a {
 		color: #333333; }
-		.post-list__post-title a:hover {
+		.post-list__post-title a:hover{
 			color: #009688; }
 
 .post-list__meta {
