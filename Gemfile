@@ -1,2 +1,7 @@
-source 'https://rubygems.org'
-gem 'github-pages'
+
+_site
+.sass-cache
+.jekyll-metadata
+*.sublime-project
+*.sublime-workspace
+.DS_Store
