@@ -937,7 +937,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #009688; }
+	color: #999; }
 	a:hover {
 		color: #00796b;
 		-o-transition: .5s;
