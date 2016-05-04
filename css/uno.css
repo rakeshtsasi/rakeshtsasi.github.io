@@ -930,16 +930,16 @@ body {
 	color: #666666; }
 
 ::selection {
-	background: #fae3df; }
+	background: #009688; }
 
 ::-moz-selection {
-	background: #fae3df; }
+	background: #009688; }
 
 a {
 	text-decoration: none;
 	color: #009688; }
 	a:hover {
-		color: #b9301c;
+		color: #009688;
 		-o-transition: .5s;
 		-ms-transition: .5s;
 		-moz-transition: .5s;
